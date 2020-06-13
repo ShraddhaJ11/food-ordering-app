@@ -1,0 +1,93 @@
+{
+  "restaurants": [{
+    "id": 1,
+    "name": "Mission Chinese Food",
+    "neighborhood": "Brooklyn",
+    "photograph": "public/1.jpg",
+    "location": "171 E Broadway, New York, NY 10002",
+    "cuisine_type": ["Mexican","Pizza","Healthy","American"],
+    "rating":2.9,
+    "ETA":20
+  }, {
+    "id": 2,
+    "name": "Emily",
+    "neighborhood": "Brooklyn",
+    "photograph": "public/1.jpg",
+    "location": "919 Fulton St, Brooklyn, NY 11238",
+    "cuisine_type": ["Pizza","American"],
+    "rating":4.2,
+    "ETA":15
+  }, {
+    "id": 3,
+    "name": "Kang Ho Dong Baekjeong",
+    "neighborhood": "Manhattan",
+    "photograph": "public/1.jpg",
+    "location": "1 E 32nd St, New York, NY 10016",
+    "rating":4,
+    "cuisine_type": ["Mexican","Healthy"],
+    "ETA":30
+  }, {
+    "id": 4,
+    "name": "Katz's Delicatessen",
+    "neighborhood": "Manhattan",
+    "photograph": "public/1.jpg",
+    "location": "205 E Houston St, New York, NY 10002",
+    "rating":3.8,
+    "cuisine_type": ["Mexican","Pizza","Healthy","American"],
+    "ETA":35
+  }, {
+    "id": 5,
+    "name": "Roberta's Pizza",
+    "neighborhood": "Brooklyn",
+    "photograph": "public/1.jpg",
+    "location": "261 Moore St, Brooklyn, NY 11206",
+    "rating":3,
+    "cuisine_type": ["Pizza"],
+    "ETA":22
+  }, {
+    "id": 6,
+    "name": "Hometown BBQ",
+    "neighborhood": "Brooklyn",
+    "photograph": "public/1.jpg",
+    "location": "454 Van Brunt St, Brooklyn, NY 11231",
+    "rating":5,
+    "cuisine_type": ["Healthy","American"],
+    "ETA":20
+  }, {
+    "id": 7,
+    "name": "Superiority Burger",
+    "neighborhood": "Manhattan",
+    "photograph": "public/1.jpg",
+    "location": "430 E 9th St, New York, NY 10009",
+    "rating":4.5,
+    "cuisine_type": ["Healthy"],
+    "ETA":25
+  }, {
+    "id": 8,
+    "name": "The Dutch",
+    "neighborhood": "Manhattan",
+    "photograph": "public/1.jpg",
+    "location": "131 Sullivan St, New York, NY 10012",
+    "rating":4,
+    "cuisine_type": ["Pizza","Healthy","American"],
+    "ETA":30
+  }, {
+    "id": 9,
+    "name": "Mu Ramen",
+    "neighborhood": "Queens",
+    "photograph": "public/1.jpg",
+    "location": "1209 Jackson Ave, Queens, NY 11101",
+    "rating": 4,
+    "cuisine_type": ["Mexican","Pizza","Healthy"],
+    "ETA":40
+  }, {
+    "id": 10,
+    "name": "Casa Enrique",
+    "neighborhood": "Queens",
+    "photograph": "public/1.jpg",
+    "location": "5-48 49th Ave, Queens, NY 11101",
+    "rating":4.8,
+    "cuisine_type": ["Mexican","Pizza","American"],
+    "ETA":22
+  }]
+}

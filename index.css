@@ -1,0 +1,53 @@
+body {
+  margin: 0px;
+}
+
+#wrapper {
+  height: 100%;
+}
+.header {
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  background: #80DEEA;
+  height: 40px;
+}
+
+.label {
+  margin-left:20px;
+}
+
+.select_box {
+  margin:10px 0px 10px 10px;
+}
+
+.container {
+  display: flex;
+  position: relative;
+  top: 40px;
+}
+
+.span {
+  font-weight:600;
+  font-size:14px;
+  text-transform: capitalize;
+}
+
+.card {
+  border:1px solid black;
+  padding: 15px;
+  margin: 15px;
+}
+
+.heading {
+  color:red;
+  text-align:center;
+}
+
+.text {
+  font-size:14px;
+}
+
+.rowText {
+  margin: 5px 0px;
+}
