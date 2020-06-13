@@ -82,7 +82,7 @@
     parentDiv.className = "card";
     const image = document.createElement('img');
     image.setAttribute('src', photograph);
-    image.innerHTML = '<i class= "material-icons" >&#xe87d;</i>';
+    // image.innerHTML = '<i class= "material-icons" >&#xe87d;</i>';
     const h3 = document.createElement('h3');
     h3.innerText = name;
     h3.className = "heading";
